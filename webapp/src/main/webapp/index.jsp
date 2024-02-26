@@ -13,6 +13,9 @@
     <label for="dob"><b>DOB</b></label>
     <input type="DOB" placeholder="Enter Dob" name="dob" required>
 
+    <label for="Email"><b>email</b></label>
+    <input type="Email" placeholder="Enter email" name="Email" required>
+
     <button type="submit">Login</button>
     <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
